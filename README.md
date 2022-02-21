@@ -1,69 +1,176 @@
-**Privacy Policy**
+PRIVACY AND DATA TRANSFER POLICY
+Last update: January 01.01.2022
+**INTRODUCTION AND GENERAL PROVISIONS**
+This privacy and data policy ("Privacy Policy") applies to and is valid for all games, associated online services (including network connectivity and interactivity) and other software and products provided by us (together the "Game(s)"), and any other online features associated with the Game(s), including our Website.  Together, the Game(s) and the Website are referred to as the "Online Services".
+We are committed to protecting and respecting your privacy.  The Privacy Policy explains the basis on which personal information we collect from you will be processed by us or on our behalf. Where we determine the purpose or means of processing the personal data you provide through these Online Services, we are the "data controller". We will comply with all applicable data protection laws, including the General Data Protection Regulation 2016/679.
 
-HOCO GAMES built the Rope and Hook: Flying Hero app as a Free app. This SERVICE is provided by HOCO GAMES at no cost and is intended for use as is.
+Please read this Privacy Policy carefully as it contains important information about the following:
+*What information we may collect about you;
+*How we will use the information we collect about you;
+*Whether we will disclose your information to anyone else and your choices and rights regarding    the personal information you provide to us.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+This Privacy Policy forms a part of and should be read in conjunction with our terms of use.
+The Online Services may contain hyperlinks to services owned and operated by third parties. These third party services may have their own privacy policy and we encourage you to read it.  They will regulate the use of personal information that you provide or that is collected through cookies and other tracking technologies while using these services.  We accept no responsibility for the privacy practices of such third party services and your use of them is at your own risk.
+We may make changes to this Privacy Policy in future, which will be posted on this page. You should check this page from time to time to ensure you are aware of any changes. Where appropriate we may notify you of changes through the Games.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+**2. THE INFORMATION WE MAY COLLECT ABOUT YOU**
+We collect and process the following information, which may include your personal data.  
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Rope and Hook: Flying Hero unless otherwise defined in this Privacy Policy.
+**Information provided by you when you use the Games**
+** ("Basic Information")**
 
-**Information Collection and Use**
+We may collect information from you when you play our Games:
+*a unique pseudonymous identifier for you (User ID);
+*Your user preferences;
+*anonymous core information milestones related to your gameplay, such as the completion of certain activities during your gameplay.
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+**Information used for advertising maintenance purposes**
+** ("Advertising Data")**
 
-The app does use third-party services that may collect information used to identify you.
+Through our third-party advertising network partners, we may collect information about your devices when you install or play our Games, depending on the permissions you provide. This may include:
+*the make, model and operating system of your device;
+*the properties of your device, such as screen size and orientation, sound volume and battery charge;
+*the mobile network operator associated with your device;
+*the games you have played;
+*the country, time zone and locale settings on your device (i.e. country and preferred language);
+*The type and speed of your network connection;
+*IP address;
+*MAC address;
+*the Internet browser used to access the Games; 
+*Advertiser ID, which is a unique identifier for you if you use an Apple or Android device, but which does not disclose your name;
 
-Link to the privacy policy of third-party service providers used by the app
+**Information collected for the purpose of providing analytics**
+** ("Analytics")**
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
-*   [Appodeal](https://www.appodeal.com/home/privacy-policy/)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
-*   [GameAnalytics](https://gameanalytics.com/privacy)
-*   [Adjust](https://www.adjust.com/terms/privacy-policy)
+We may collect technical information about your use of the Online Services using tracking and analytics technologies.
+The Personal Information we may collect includes the following:
+*your mobile device's unique device identifier ("Device ID");
+*your User ID (which is generated by us and assigned to you when you first play our games);
+*your device operating system and version;
+*the make and model of your device;
+*the attempts, progress and results of the game;
+*the start time, end time and duration of the game session;
+*types of purchase transactions;
+*the country where your Device is located;
+*the time, date and installation source of your first download (e.g. from an advertisement you clicked on);
+*advertisements viewed and clicked on;
+*identification of failures and defects;
 
-**Log Data**
+**Information about you collected from third parties**
+** ("Third Party Login Information")**
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+When you access the Games through third-party social media providers such as Facebook, Twitter or Game Center, we may collect and store personal and non-personal information that is available on that third-party social media provider, such as your Facebook or Twitter name, your profile picture or its URL, your Facebook ID and other public data of your friends, provided that you have explicitly consented to the use of Facebook cookies in the Games. We will also receive technical data to ensure that the Games connect to the correct Facebook account.
 
-**Cookies**
+**3.WHY WE COLLECT INFORMATION ABOUT YOU**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+**To provide you with our games**
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+We will use information about you (including basic information, third-party login information and analytics data) to provide our games to you, subject to the terms of use agreed between us. The processing of your information in this way is necessary for us to track your progress and current game status, and to ensure that we deliver the promised features and proper operation of the games, so that you have the best possible experience playing any of our games.
 
-**Service Providers**
+**To help us improve our online services and troubleshoot any problems**
 
-We may employ third-party companies and individuals due to the following reasons:
+We may process non-identifiable analytics data so that we can analyse and improve our games and online services.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Such processing is also necessary for us to pursue our legitimate interests: (i) to ensure that our Online Services function properly so that you and other users have the best experience when playing any of our games and using other Online Services; (ii) to improve our Online Services and provide a better experience for our users; (iii) to identify and correct any errors in our games and Online Services; and (iv) to understand our marketing effectiveness to attract new users and re-engage our current users.
 
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We may use third party vendors Fabric (for crash analytics), AppsFlyer and Tenjin (user attribution and analytics), Game Analytics and AppOnboard (for analytics). Fabric, AppsFlyer, Tenjin, AppOnboard and Game Analytics who may collect analytics data on our behalf and in accordance with our instructions and their applicable privacy notices.
 
-**Security**
+If you would like to learn more about how Fabric, Tenjin, AppsFlyer, Game Analytics and AppOnboard collect and process this information, it may be set out in their privacy policies and/or terms and conditions. Please refer to *[Fabric]( https://policies.google.com/privacy)
+*[AppsFlyer](https://www.appsflyer.com/privacy-policy)
+*[AppOnboard](https://apponboard.com/legal/privacy-policy/)
+*[Tenjin](https://www.tenjin.io/privacy/)
+*[GameAnalytics](https://gameanalytics.com/privacy)
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+**To improve monetisation through in-app purchases**
 
-**Links to Other Sites**
+We may process information to understand how users use our in-game in-game purchases and compile statistical reports about this activity, as well as understand how users are progressing and their current status in the game. Such processing is necessary for us to pursue our legitimate interests in improving the game and increasing the revenue generated by in-app purchases.
+We will not pass on your information for these purposes, unless you have consented or have already given your consent. Once you have given your consent, you may withdraw it at any time. You can do this by withdrawing consent by deactivating your account or additionally requesting its deletion by sending a request to hocogames@gmail.com
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+**For advertising purposes**
 
-**Children’s Privacy**
+We may process Advertising Data to show you advertisements for third party services.  
+The information we collect about you may be used to understand how advertisements appearing in our games work or how many people have viewed certain advertisements.
+We will not process your information for marketing purposes or share it with third parties for such marketing purposes unless you have given or have already given your consent. Once you have given your consent, you may withdraw it at any time.
+We may use the information we collect about you to provide you with targeted advertising in our Games.  We do this in order to provide you with more relevant advertising content.  We work with the following third party advertising networks: 
+*[Applovin](https://www.applovin.com/privacy)
+Adcolony https://www.adcolony.com/privacy-policy/ 
+Facebook https://www.facebook.com/privacy/explanation 
+Unity https://unity3d.com/legal/privacy-policy
+Tapjoy https://www.tapjoy.com/legal/#privacy-policy 
+IronSource https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/ 
+Admob https://support.google.com/admob/answer/6128543 
+Chartboost https://answers.chartboost.com/en-us/articles/200780269 
+MoPub https://www.mopub.com/legal/privacy/ 
+InMobi https://www.inmobi.com/privacy-policy/ 
+Vungle http://vungle.com/privacy/ 
+TikTok Inc. https://www.tiktok.com/en-uk/privacy-policy
+Amazon Advertising LLC and/or its affiliates
+https://advertising.amazon.com/legal/product-terms
+Mintegral https://www.mintegral.com/en/privacy/
+Fyber https://www.fyber.com/privacy-policy/
+Smaato and its affiliates https://www.smaato.com/privacy/ https://www.smaato.com/partner-list/
+Criteo Limited http://www.criteo.com/privacy/
+Maio https://www.i-mobile.co.jp/privacy.html
+Adjust - https://www.adjust.com/terms/privacy-policy/
+Firebase - https://firebase.google.com/support/privacy
+Ogury - https://ogury.com/privacy-policy/
+HybrMC Mobile LLC - Nhypermx.com/pp.html
+Verizon - https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html
+Yandex - https://yandex.com/legal/confidential/?lang=en
+Google Ads - https://policies.google.com/privacy?hl=en   
+Snapchat - https://support.snapchat.com/en-GB/article/games-data-privacy 
+JetFuel - https://www.jetfuel.it/privacy
+Apple Search Ads - https://www.apple.com/legal/privacy/en-ww/
+CrossInstall - https://www.crossinstall.com/privacy
+Pangle - https://www.pangleglobal.com/privacy
+MyTarget - https://legal.my.com/us/mytarget/privacy/#
+Orgury - https://ogury.com/privacy-policy/
+If you would like to learn more about how these third parties collect and process your information, please review their privacy policies and/or terms and conditions by clicking on the links above.
+To prevent fraud and illegal activities
+We process personal data in our legitimate interests to ensure that any use of the Online Services is lawful and not fraudulent, does not disrupt our services, or harass our employees or others to ensure our legal rights and obligations are met.
+If we reasonably believe that you are or may be in breach of any applicable laws or our terms of use, we may use your personal information to inform relevant third parties, such as law enforcement agencies, of the content.
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+4. SEPARATION OF DATA
+We will only share your information with third parties in the ways described in this Privacy Policy.
+Group members, staff, suppliers or sub-contractors: We will keep your information confidential, but may disclose it to any member of our group (which means our subsidiaries, our ultimate holding company and its subsidiaries as defined by section 1159 of the Companies Act 2006), our staff, suppliers or sub-contractors to the extent reasonably necessary for the purposes set out in this Privacy Policy. However, this is on the condition that they do not use the information themselves and have agreed to safeguard it.
+Merger or Acquisition: If we are involved in a merger, acquisition or sale of all or part of our assets, you will be notified via an account statement and/or prominent notice on our website of any change in ownership or use of that information and of any choices you may have regarding that information.
+Legal requirement: In addition, we may disclose your information to the extent required by law (which may include public bodies and law enforcement agencies); in connection with any legal proceedings or proposed legal proceedings; and to establish, exercise or defend our legal rights (including for the purpose of providing information to others for fraud prevention purposes).
+Right to use: We may also disclose your personal information to third parties in order to enforce or apply the terms of agreements, investigate potential breaches, or protect the rights, property, or safety of us, our customers, or others.
 
-**Changes to This Privacy Policy**
+5. AUTOMATED DECISION-MAKING
+We use automated decision-making methods, which do not involve human intervention, to process your information only in the ways described in this Privacy Policy.
+We process your personal information using automated decision-making methods to identify users who cheat in the Games. We may block access to the Games and/or Online Services to users who have been identified through our automated decision-making process as engaging in fraudulent activity. In this case, the user will be notified of the results and will have the right to human intervention to express their point of view and challenge the decision to block access to the Games and/or Online Services.
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+6. CONSUMER CONTROL AND POSSIBILITY OF CANCELLATION
+If you do not wish to receive notifications from us or receive targeted advertising, you can opt out by changing your advertising and notification settings directly on your device.
+You can withdraw your consent by deleting the Game at any time.
+7. YOUR RIGHTS IN RELATION TO THE PERSONAL DATA WE PROCESS ABOUT YOU
+You have the following rights in relation to how we process personal data relating to you, as set out in the table below.  We endeavour to comply with them without undue delay, no later than within two months.  
+Request a copy of the data we process about you and correct any inaccuracies.
+You have the right to request a copy of the personal information we hold about you and to correct any inaccuracies.
+We will use reasonable endeavours, to the extent required by law, to provide, correct or delete personal information about you held on our files (and with any third parties to whom it has been disclosed).
+Objection to our processing of data about you
+You can ask us to restrict, stop processing or delete your personal data if:
+you have consented to the processing of personal data, but have withdrawn that consent;
+we no longer need to process that personal data for the reason for which it was collected;
+we process the personal data because it is in the public interest or to pursue a legitimate interest of us or a third party, you do not consent to such processing and we have no overriding legitimate interest in continuing to process it
+the personal data has been processed unlawfully;
+you need to delete the personal data in order to comply with a legal obligation;
+the personal data is processed in connection with an offer of a service to a child.
+Obtain a machine-readable copy of your personal data that you can use from another service provider.
+If we process data in order to meet our obligations to you or with your consent, or if this processing is carried out by automated means, we will help you to transfer, copy or transmit your personal data to other IT systems.
+On request, we will provide you with the relevant personal data in CSV format.  If technically possible, you may ask us to send this information directly to another IT system provider, if you prefer.
+File a complaint with the supervisory authority
+If you are unhappy with the way we handle your personal data, please let us know by contacting us through our support team.
+If you do not agree with the way we have processed your data or responded to your concerns, an alternative option is to lodge a complaint with a data protection supervisory authority.
+8. DATA RETENTION
+We will retain your personal information on our systems for as long as necessary to provide the relevant service or as otherwise described in this Privacy Policy.
+9. CHILDREN
+We do not use our online services to knowingly solicit information from or market to children under the age of 13. Our Terms of Use prohibit users under the age of 13 from accessing our Online Services.  In the event that we become aware that we have collected personal information from a child under 13, we will delete that information as soon as possible.
+10. SECURITY
+We take all reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.  For example, our databases contain only encrypted and anonymised information, are password protected and only accessible to key employees.
+Please be aware that while we strive to provide reasonable security for the information we process and store, no single security system can prevent all potential security breaches.
 
-This policy is effective as of 2022-02-21
 
 **Contact Us**
 
