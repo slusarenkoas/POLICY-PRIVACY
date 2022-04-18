@@ -78,13 +78,14 @@ Such processing is also necessary for us to pursue our legitimate interests: (i)
 
 We may use third party vendors Fabric (for crash analytics), AppsFlyer and Tenjin (user attribution and analytics), Game Analytics and AppOnboard (for analytics). Fabric, AppsFlyer, Tenjin, AppOnboard and Game Analytics who may collect analytics data on our behalf and in accordance with our instructions and their applicable privacy notices.
 
-If you would like to learn more about how Fabric, Tenjin, AppsFlyer, Game Analytics and AppOnboard collect and process this information, it may be set out in their privacy policies and/or terms and conditions. Please refer to 
+If you would like to learn more about how Fabric, Tenjin, AppsFlyer, Appmetrica, Game Analytics and AppOnboard collect and process this information, it may be set out in their privacy policies and/or terms and conditions. Please refer to 
 
 * [Fabric](https://policies.google.com/privacy)
 * [AppsFlyer](https://www.appsflyer.com/privacy-policy)
 * [AppOnboard](https://apponboard.com/legal/privacy-policy/)
 * [Tenjin](https://www.tenjin.io/privacy/)
 * [GameAnalytics](https://gameanalytics.com/privacy)
+* [Appmetrica](https://yandex.ru/legal/confidential/index.html)
 
 
 **To improve monetisation through in-app purchases**
